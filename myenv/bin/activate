@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/rop/my_folder/Africode-High_Level_Programming/Africode_Blog/myenv"
+VIRTUAL_ENV="/home/rop/Africode/Africode_Blog/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/rop/my_folder/Africode-High_Level_Programming/Africode_Blog/myenv"
+set -gx VIRTUAL_ENV "/home/rop/Africode/Africode_Blog/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
