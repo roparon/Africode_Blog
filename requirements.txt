@@ -17,3 +17,4 @@ login==0.0.6
 MarkupSafe==2.1.5
 pcrypt==1.0.5
 pillow==10.4.0
+gunicorn
