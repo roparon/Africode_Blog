@@ -23,4 +23,3 @@ pcrypt==1.0.5
 # Pillow 10.3.0 fails on Python 3.13, use stable release
 pillow==10.4.0
 greenlet>=3.0.0
-python-3.12.6
